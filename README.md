@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @datad1v3d
 - 👀 I’m interested in datascience, data analytics and machine learning
-- 🌱 I’m currently learning introduction to data Science in the university of michigan
+- 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on data science, machine learning and python projects 
 - 📫 How to reach me daveedosen@gmail.com
 
